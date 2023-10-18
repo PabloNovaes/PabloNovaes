@@ -8,7 +8,7 @@
 ![ Pablo Novaes](https://github-readme-stats-408gge7pw-zhorzon.vercel.app/api?username=pablonovaes&show_icons=true&hide_border=true&title_color=A4E3FF&bg_color=04202C&border_radius=2&text_color=9AB8C6&custom_title=My+Dashboard&3)
 
 
-### <a href="https://github.com/pablonovaes">Tecnologias</a>
+### Tecnologias
 
 <div style="display: flex"><br/>
 
