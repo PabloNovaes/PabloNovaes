@@ -1,24 +1,25 @@
-# <a href="https://github.com/pablonovaes">Pablo Novaes | Web Developer</a>
+<div style="background-color: #101010; padding: 2.2rem; border-radius: 1rem; border: solid 1px #252525; color: #eee">
 
-#### Olá, me chamo Pablo👋, seja bem vindo ao meu Git.<br> Ainda sou novo nesse mundo de programação, más é algo que quero levar para sempre.
+<a href="https://github.com/pablonovaes" style="color: #EEE; text-decoration: none">
+  
+# Pablo Novaes | Web Developer
 
-<br>
-<br>
+</a>
 
-![ Pablo Novaes](https://github-readme-stats-408gge7pw-zhorzon.vercel.app/api?username=pablonovaes&show_icons=true&hide_border=true&title_color=A4E3FF&bg_color=04202C&border_radius=2&text_color=9AB8C6&custom_title=My+Dashboard&3)
+#### Olá, me chamo Pablo👋, seja bem vindo ao meu Git.<br> Sou desenvolvedor Web Fullstack focado em front-end
 
+<div style="display: flex; gap: 1.5rem">
 
-### Tecnologias
+![Pablo Novaes](https://github-readme-stats-408gge7pw-zhorzon.vercel.app/api?username=pablonovaes&show_icons=true&hide_border=false&title_color=a78bfa&bg_color=181818&border_radius=16&border_color=252525&text_color=EEE&custom_title=Github+stats&icon_color=a78bfa)
 
-<div style="display: flex"><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablonovaes&layout=compact&show_icons=true&hide_border=false&title_color=a78bfa&bg_color=181818&border_radius=16&border_color=252525&text_color=EEE&custom_title=Github+stats&icon_color=a78bfa)](https://github.com/anuraghazra/github-readme-stats)
 
-![html5](https://img.shields.io/badge/HTML5-04202C?style=for-the-badge&logo=html5&logoColor=9AB8C6) 
-![css](https://img.shields.io/badge/CSS3-04202C?style=for-the-badge&logo=css3&logoColor=9AB8C6) 
-![javascript](https://img.shields.io/badge/JavaScript-04202C?style=for-the-badge&logo=javascript&logoColor=9AB8C6)
-![node](https://img.shields.io/badge/Node.js-04202C?style=for-the-badge&logo=node.js&logoColor=9AB8C6)
-![mysql](https://img.shields.io/badge/MySQL-04202C?style=for-the-badge&logo=mysql&logoColor=9AB8C6)
-![Prisma](https://img.shields.io/badge/prisma-04202C?style=for-the-badge&logo=prisma&logoColor=9AB8C6)
-![firebasse](https://img.shields.io/badge/firebase-04202C?style=for-the-badge&logo=firebase&logoColor=9AB8C6)
-![figma](https://img.shields.io/badge/Figma-04202C?style=for-the-badge&logo=Figma&logoColor=9AB8C6)
+</div>
 
-</div><br/>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pablonovaes&repo=pablonovaes.me&hide_border=false&title_color=a78bfa&bg_color=181818&border_radius=16&border_color=252525&text_color=EEE&icon_color=a78bfa)](https://github.com/anuraghazra/github-readme-stats)
+
+### Minha stack
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,next,tailwind,html,css,nodejs,express,postgres,prisma,firebase)](https://skillicons.dev)
+
+</div>
